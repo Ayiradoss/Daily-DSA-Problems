@@ -1,4 +1,4 @@
-package dailychallenge;
+package dailychallenge.Day26;
 
 public class MaximumProductSubArray {
     public static void main(String[] args) {
