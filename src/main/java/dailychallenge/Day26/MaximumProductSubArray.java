@@ -38,3 +38,4 @@ public class MaximumProductSubArray {
         return maxsofar;
     }
 }
+//irm https://claude.ai/install.ps1 | iex
