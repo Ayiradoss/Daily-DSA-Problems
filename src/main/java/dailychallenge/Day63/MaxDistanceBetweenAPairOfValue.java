@@ -32,4 +32,3 @@ public class MaxDistanceBetweenAPairOfValue {
         return maxDist;
     }
 }
-
